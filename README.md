@@ -11,3 +11,6 @@ O objetivo é compartilhar minha evolução como estudante e profissional da ár
 # Contato
 - [Linkedin](www.linkedin.com/in/analuizaoliveiraramos)
 - [aninhaosr@sempreceub.com](aninhaosr@sempreceub.com)
+# Projetos
+- [SGBD](https://www.linkedin.com/posts/analuizaoliveiraramos_sistemas-gerenciadores-de-banco-de-dados-activity-7369199905069871105-OQzG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFnVPAwBpAo7yoT094nQRvM9m-SBdqPI898)
+- [Banco de Dados](https://www.linkedin.com/posts/analuizaoliveiraramos_conceito-e-aplica%C3%A7%C3%B5es-de-banco-de-dados-activity-7369168642317459457-R0sW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFnVPAwBpAo7yoT094nQRvM9m-SBdqPI898)
